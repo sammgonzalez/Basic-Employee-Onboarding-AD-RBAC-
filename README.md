@@ -15,8 +15,7 @@ The solution was to build a basic employee onboarding pipeline using Active Dire
 ## Tools Used
 * Windows Server
 * Active Directory Domain Services
-* VirtualBox
-* UTM
+* Proxmox
 * RBAC
 * GitHub
 
