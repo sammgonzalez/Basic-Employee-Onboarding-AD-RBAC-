@@ -1,0 +1,8 @@
+Ticket number: NMG-0047
+Affected user: Jane Cooper (jcooper@NMG.com)
+Issue reported: Unable to access HR shared resources. Desktop policies and mapped drives differ from teammates.
+Root cause: Found Jane Cooper was in Operations OU and incorrect Security Group.
+Fix applied: I moved Jane Cooper to correct HR OU and HR-Users security group
+Verification: I confirmed by reviewing th eOU and Security Group Members list and taking screenshots to document,
+Date resolved: 11/04/2026
+Resolved by: Samm Gonzalez
